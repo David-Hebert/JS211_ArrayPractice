@@ -35,7 +35,6 @@ console.log(carsInReverse.shift());
 carsInReverse.unshift("Buick");
 console.log(carsInReverse);
 //14
-
 let numberArray = [23, 45, 0, 2];
 
 let addingTwo = (item, index, arr) => {
